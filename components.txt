@@ -1,1 +1,6 @@
-
+The components used in the project are :
+1.Raspberry Pi 5 (4 GB)
+2.Waveshare 7 inch (HMI) Display
+3.Wired barcode scanner(USB HID)
+4.Shopping cart
+LiPo batterypack
