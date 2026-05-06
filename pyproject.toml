@@ -1,0 +1,18 @@
+[project]
+name = "smartcart"
+version = "3.0.0"
+description = "SmartCart v3 — FastAPI + HTMX + SSE kiosk POS for Raspberry Pi 5"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+    "jinja2>=3.1",
+    "aiosqlite>=0.20",
+    "argon2-cffi>=23.1",
+    "sse-starlette>=2.1",
+    "itsdangerous>=2.2",
+    "python-multipart>=0.0.12",
+]
+
+[tool.uv]
+dev-dependencies = []
