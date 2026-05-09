@@ -8,3 +8,9 @@ the google drive link of the working of the software's video :
 https://drive.google.com/file/d/1o8FZYIB-qxhM30db-8QUBAL-dWEF3LZV/view
 
 
+setup_pi.sh conyains all the required dependancies to be installed on Pi 5,run it using the command:
+  cd smart-cart-v3
+  bash setup_pi.sh
+
+
+
